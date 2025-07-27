@@ -223,7 +223,7 @@ curl -X POST http://localhost:5000/chat \
    > > Compile your work
    > > > Call in for a Pull Request
 
-Credits: [Samuel Jayasingh](https://github.com/SamuelJayasingh)
+Credits: [Santhosh](https://github.com/santhosharun18)
 
 Last Edited on: 19/05/2025
 
